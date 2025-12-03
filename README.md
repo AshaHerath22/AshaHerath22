@@ -1,5 +1,5 @@
 ## Hi there<h1 align="center">Hi 👋, I'm Asha Herath</h1>
-<h3 align="center">A passionate frontend deveCybersecurity & Networking Enthusiast | Undergraduate Studentloper from India</h3>
+<h3 align="center">A passionate frontend deveCybersecurity & Networking Enthusiast | Undergraduate Student from Srilanka </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashaherath&label=Profile%20views&color=0e75b6&style=flat" alt="ashaherath" /> </p>
 
